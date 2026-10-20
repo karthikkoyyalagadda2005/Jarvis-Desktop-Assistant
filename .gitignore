@@ -1,0 +1,14 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Backend - Python
+__pycache__/
+*.py[cod]
+backend/venv/
+backend/.venv/
+
+# Environment variables
+.env
+.env.*
+!.env.example
